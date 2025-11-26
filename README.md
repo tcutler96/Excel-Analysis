@@ -3,4 +3,5 @@ This project uses bike sales data to build a clear Excel dashboard. The work beg
 
 ## Dashboard
 The dashboard includes charts, graphs, and conditional formatting to highlight important values and show patterns at a glance. The aim was to create a simple tool that anyone can use to explore the dataset and understand the main trends with no extra setup.
+
 ![Demo](demo.gif)
