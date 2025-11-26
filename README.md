@@ -1,6 +1,6 @@
 # Excel Analysis
-This project involved creating an informative Excel dashboard using bike sales data.
+This project uses bike sales data to build a clear Excel dashboard. The work began with data cleaning to fix missing values, reshape columns, and keep the file consistent. Pivot tables were then used to explore trends such as sales by region and customer groups, while formulas and lookups helped keep the data accurate and easy to update.
 
-Key steps included data cleaning, using pivot tables for analysis, applying conditional formatting for insights, and creating charts and graphs for visual representation. Formulas, functions, and lookups were used to enhance data accuracy and usability.
-
-![Demo](demo/demo.png)
+## Dashboard
+The dashboard includes charts, graphs, and conditional formatting to highlight important values and show patterns at a glance. The aim was to create a simple tool that anyone can use to explore the dataset and understand the main trends with no extra setup.
+![Demo](demo.gif)
